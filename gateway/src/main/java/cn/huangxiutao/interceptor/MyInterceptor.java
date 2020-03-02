@@ -7,6 +7,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
+ * 参考：https://stackoverflow.com/questions/39801282/handlerinterceptoradapter-and-zuul-filter
  * @author huangxiutao
  * @date 2020/2/29
  */
